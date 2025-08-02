@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm making scripts and add-ons for 3DEqualizer, Blender and Nuke
+Feel free to contact me 
 
 <!--
 **YaroslavYushk/YaroslavYushk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
